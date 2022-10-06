@@ -1,6 +1,6 @@
 package main
 
-import "github.com/vickyhermawan/rest-api/api"
+import "https://github.com/airsuci/golang-vue/api"
 
 func main() {
 	api.Run()

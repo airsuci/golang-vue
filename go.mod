@@ -1,4 +1,4 @@
-module github.com/vickyhermawan/rest-api
+module https://github.com/airsuci/golang-vue
 
 go 1.15
 

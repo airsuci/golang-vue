@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/vickyhermawan/rest-api/api/controllers"
+	"https://github.com/airsuci/golang-vue/api/controllers"
 )
 
 var server = controllers.Server{}

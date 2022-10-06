@@ -6,10 +6,10 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/vickyhermawan/rest-api/api/auth"
-	"github.com/vickyhermawan/rest-api/api/models"
-	"github.com/vickyhermawan/rest-api/api/responses"
-	"github.com/vickyhermawan/rest-api/api/utils/formaterror"
+	"https://github.com/airsuci/golang-vue/api/auth"
+	"https://github.com/airsuci/golang-vue/api/models"
+	"https://github.com/airsuci/golang-vue/api/responses"
+	"https://github.com/airsuci/golang-vue/api/utils/formaterror"
 	"golang.org/x/crypto/bcrypt"
 )
 

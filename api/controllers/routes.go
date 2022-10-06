@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/vickyhermawan/rest-api/api/middlewares"
+import "https://github.com/airsuci/golang-vue/api/middlewares"
 
 func (s *Server) initializeRoutes() {
 	//Home Route
